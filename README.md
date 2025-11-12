@@ -10,6 +10,10 @@ Best practices and code examples for protecting intellectual property when publi
 
 # Example license validation
 python3 examples/license_validator.py
+
+# Deploy IAM role for your AMI
+aws cloudformation create-stack --stack-name marketplace-iam-role \
+  --template-body file://templates/marketplace-iam-role.yaml --capabilities CAPABILITY_IAM
 ```
 
 ## Protection Strategies
@@ -44,6 +48,8 @@ python3 examples/license_validator.py
 - `docs/` - Detailed implementation guides
 
 📖 **[Read the detailed Implementation Guide](docs/implementation-guide.md)** for step-by-step instructions and code examples.
+
+🔐 **[IAM Role Usage Guide](docs/iam-role-usage.md)** - How to deploy and use the CloudFormation IAM role template.
 
 ## AWS Documentation References
 
