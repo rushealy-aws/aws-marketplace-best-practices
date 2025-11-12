@@ -43,6 +43,8 @@ python3 examples/license_validator.py
 - `templates/` - CloudFormation templates with IAM roles
 - `docs/` - Detailed implementation guides
 
+📖 **[Read the detailed Implementation Guide](docs/implementation-guide.md)** for step-by-step instructions and code examples.
+
 ## AWS Documentation References
 
 - [Best practices for building AMIs for AWS Marketplace](https://docs.aws.amazon.com/marketplace/latest/userguide/best-practices-for-building-your-amis.html)
