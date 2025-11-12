@@ -40,7 +40,7 @@ python3 examples/license_validator.py
 
 - `scripts/` - Shell scripts for instance verification
 - `examples/` - Python examples for license validation
-- `templates/` - CloudFormation templates with IAM roles
+- `templates/` - IAM role for use with CloudFormation templates in AWS Marketplace deployments
 - `docs/` - Detailed implementation guides
 
 📖 **[Read the detailed Implementation Guide](docs/implementation-guide.md)** for step-by-step instructions and code examples.
