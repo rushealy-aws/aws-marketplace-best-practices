@@ -43,6 +43,15 @@ python3 examples/license_validator.py
 - `templates/` - CloudFormation templates with IAM roles
 - `docs/` - Detailed implementation guides
 
+## AWS Documentation References
+
+- [Best practices for building AMIs for AWS Marketplace](https://docs.aws.amazon.com/marketplace/latest/userguide/best-practices-for-building-your-amis.html)
+- [AMI-based product requirements for AWS Marketplace](https://docs.aws.amazon.com/marketplace/latest/userguide/product-and-ami-policies.html)
+- [AWS Marketplace security](https://docs.aws.amazon.com/marketplace/latest/userguide/security.html)
+- [AWS Secrets Manager integration](https://docs.aws.amazon.com/secretsmanager/latest/userguide/integrating_how-services-use-secrets_marketplace-deployment.html)
+- [EC2 Instance metadata and user data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
+- [Guidelines for Shared Linux AMIs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/building-shared-amis.html)
+
 ## License
 
 MIT License - See LICENSE file for details.

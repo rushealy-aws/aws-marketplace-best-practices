@@ -1,5 +1,9 @@
 #!/bin/bash
 # Verify instance is running from AWS Marketplace AMI
+# 
+# References:
+# - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+# - https://docs.aws.amazon.com/marketplace/latest/userguide/best-practices-for-building-your-amis.html
 
 set -e
 

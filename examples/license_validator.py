@@ -2,6 +2,11 @@
 """
 AWS Marketplace License Validator
 Demonstrates secure license validation using EC2 metadata and Secrets Manager
+
+References:
+- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+- https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html
+- https://docs.aws.amazon.com/marketplace/latest/userguide/best-practices-for-building-your-amis.html
 """
 
 import json
