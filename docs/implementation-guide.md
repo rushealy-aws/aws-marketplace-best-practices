@@ -3,17 +3,17 @@
 ## AWS Documentation References
 
 ### Core Requirements
-- [AMI-based product requirements](https://docs.aws.amazon.com/marketplace/latest/userguide/product-and-ami-policies.html){:target="_blank"} - Official AWS Marketplace policies
-- [Best practices for building AMIs](https://docs.aws.amazon.com/marketplace/latest/userguide/best-practices-for-building-your-amis.html){:target="_blank"} - Security and build guidance
+- [AMI-based product requirements](https://docs.aws.amazon.com/marketplace/latest/userguide/product-and-ami-policies.html) - Official AWS Marketplace policies
+- [Best practices for building AMIs](https://docs.aws.amazon.com/marketplace/latest/userguide/best-practices-for-building-your-amis.html) - Security and build guidance
 
 ### Security & Secrets
-- [AWS Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html){:target="_blank"} - Managing secrets securely
-- [Store and use secrets securely](https://docs.aws.amazon.com/wellarchitected/2024-06-27/framework/sec_identities_secrets.html){:target="_blank"} - Well-Architected Framework
-- [Guidelines for Shared Linux AMIs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/building-shared-amis.html){:target="_blank"} - EC2 AMI security
+- [AWS Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html) - Managing secrets securely
+- [Store and use secrets securely](https://docs.aws.amazon.com/wellarchitected/2024-06-27/framework/sec_identities_secrets.html) - Well-Architected Framework
+- [Guidelines for Shared Linux AMIs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/building-shared-amis.html) - EC2 AMI security
 
 ### Instance Verification
-- [Instance metadata and user data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html){:target="_blank"} - EC2 metadata service
-- [Instance identity documents](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-identity-documents.html){:target="_blank"} - Verification methods
+- [Instance metadata and user data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html) - EC2 metadata service
+- [Instance identity documents](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-identity-documents.html) - Verification methods
 
 ## Secrets Protection
 
